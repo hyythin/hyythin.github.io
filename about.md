@@ -3,9 +3,6 @@ layout: post
 title: About site
 ---
 
-* content
-{:toc}
-
-## Introduction
+## 个人介绍
 
 some description...

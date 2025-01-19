@@ -7,10 +7,6 @@ thumbnail: /style/image/thumbnail.png
 icon: book
 ---
 
-
-* content
-{:toc}
-
 ## sub title
 
 page...
